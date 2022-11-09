@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharp-09-11-2022_D_Z_try_cath_final", "sharp-09-11-2022_D_Z_try_cath_final.csproj", "{EB4C4F5F-644E-4A56-B319-F9DB6D2EDC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4C4F5F-644E-4A56-B319-F9DB6D2EDC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4C4F5F-644E-4A56-B319-F9DB6D2EDC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4C4F5F-644E-4A56-B319-F9DB6D2EDC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4C4F5F-644E-4A56-B319-F9DB6D2EDC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {075C744A-0205-4E0F-9364-B423CA4D4D41}
+	EndGlobalSection
+EndGlobal
